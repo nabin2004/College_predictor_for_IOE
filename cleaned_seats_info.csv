@@ -1,0 +1,13 @@
+,Name,PulchowkRegular,PulchowkFull-fee,Western CampusRegular,Western CampusFull-fee,Eastern CampusRegular,Eastern CampusFull-fee,Thapathali CampusRegular,Thapathali CampusFull-fee,Chitwan CampusRegular,Chitwan CampusFull-fee,KantipurRegular,KantipurFull-fee,KathmanduRegular,KathmanduFull-fee,HimalayaRegular,HimalayaFull-fee,ACMERegular,ACMEFull-fee,NationalRegular,NationalFull-fee,KathfordRegular,KathfordFull-fee,JanakpurRegular,JanakpurFull-fee,KhowpaRegular,KhowpaFull-fee,SagarmathaRegular,SagarmathaFull-fee,LalitpurRegular,LalitpurFull-fee
+2,Civil,108,84,36,108,24,72,36,108,0,0,96,0,96,0,96,0,96,0,96,0,96,0,96,0,96,0,48,0,48,0
+3,Architecture,24,24,0,0,12,36,12,36,6,18,0,0,48,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Electrical,24,24,12,36,12,36,0,0,0,0,0,0,48,0,0,0,48,0,48,0,0,0,48,0,48,0,0,0,0,0
+5,"Electronics, Communication and Information",24,24,12,36,12,36,12,36,0,0,96,0,96,0,48,0,96,0,48,0,48,0,0,0,0,0,48,0,0,0
+6,Mechanical,24,24,12,36,24,72,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Computer,36,60,12,36,24,72,12,36,0,0,96,0,96,0,48,0,96,0,48,0,48,0,48,0,48,0,48,0,48,0
+8,Aerospace,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Agriculture,0,0,0,0,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Industrial,0,0,0,0,0,0,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Geometics,0,0,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Automobile,0,0,12,36,0,0,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Chemical,12,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
